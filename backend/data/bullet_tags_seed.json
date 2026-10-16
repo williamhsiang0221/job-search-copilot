@@ -1,0 +1,112 @@
+[
+  {
+    "category": "Product Manager",
+    "name": "Personalization/Recsys",
+    "definition": "Building or improving systems that tailor content, offers, or product experiences to individual users, such as recommendation engines and ranking models."
+  },
+  {
+    "category": "Product Manager",
+    "name": "Experimentation",
+    "definition": "Designing and running A/B tests or other controlled experiments to inform product decisions and iterate on features."
+  },
+  {
+    "category": "Product Manager",
+    "name": "Agentic/LLM Product",
+    "definition": "Building products or workflows on large language models, including prompt engineering, tool use, agents, and MCP integrations."
+  },
+  {
+    "category": "Product Manager",
+    "name": "Merchant/Marketplace",
+    "definition": "Owning or growing a platform with multiple sides (merchants, sellers, partners), including onboarding, supply-side tools, and marketplace dynamics."
+  },
+  {
+    "category": "Product Manager",
+    "name": "User Research/Discovery",
+    "definition": "Uncovering user or customer needs through interviews, call analysis, surveys, or observation, and turning findings into product direction."
+  },
+  {
+    "category": "Product Manager",
+    "name": "Adoption/Enablement",
+    "definition": "Driving internal or external uptake of a new tool or product through rollout planning, training, and change management."
+  },
+  {
+    "category": "Marketing",
+    "name": "Lifecycle/CRM",
+    "definition": "Managing customer communication across the journey (onboarding, engagement, win-back) through channels like push, SMS, email, and in-app messaging."
+  },
+  {
+    "category": "Marketing",
+    "name": "Audience Targeting",
+    "definition": "Defining segments and deciding who receives which message, offer, or experience, based on behavior or attributes."
+  },
+  {
+    "category": "Marketing",
+    "name": "Paid/Performance",
+    "definition": "Managing paid acquisition or ad placements against efficiency metrics such as CAC, CTR, CVR, and ROAS."
+  },
+  {
+    "category": "Marketing",
+    "name": "Partnerships/Co-marketing",
+    "definition": "Running joint campaigns or promotions with external brands or partners for mutual audience or revenue benefit."
+  },
+  {
+    "category": "Marketing",
+    "name": "Positioning/Messaging",
+    "definition": "Defining how a product is framed, who it's for, and what story is told, including launch narratives and value propositions."
+  },
+  {
+    "category": "Strategy",
+    "name": "Enterprise AI Deployment",
+    "definition": "Taking AI from concept to production inside a large or risk-averse organization, including stakeholder alignment, integration, and governance."
+  },
+  {
+    "category": "Strategy",
+    "name": "Business Case/Exec Comms",
+    "definition": "Building the quantified argument for an initiative and presenting results or recommendations to senior leadership."
+  },
+  {
+    "category": "Strategy",
+    "name": "Partner/Vendor Management",
+    "definition": "Selecting, managing, and getting results from external vendors or technology partners."
+  },
+  {
+    "category": "Strategy",
+    "name": "Workflow Automation",
+    "definition": "Redesigning or automating manual processes to cut cycle time or cost."
+  },
+  {
+    "category": "Strategy",
+    "name": "Pilot-to-Scale",
+    "definition": "Proving an idea with a limited pilot, then expanding it into a repeatable, larger rollout."
+  },
+  {
+    "category": "Data Analyst",
+    "name": "Lifecycle/Funnel Analytics",
+    "definition": "Analyzing user progression and behavior over time, including cohorts, churn, funnel drop-off, and lifetime value."
+  },
+  {
+    "category": "Data Analyst",
+    "name": "Experiment Design/Causal Inference",
+    "definition": "Establishing whether an intervention caused an outcome through test design, holdouts, incrementality, and statistical rigor."
+  },
+  {
+    "category": "Data Analyst",
+    "name": "Predictive Modeling",
+    "definition": "Building statistical or machine learning models to forecast outcomes or score users, such as propensity, churn, or demand."
+  },
+  {
+    "category": "Data Analyst",
+    "name": "Measurement/Attribution",
+    "definition": "Defining metrics and methods to quantify the impact and ROI of campaigns, features, or programs."
+  },
+  {
+    "category": "Data Analyst",
+    "name": "BI/Dashboarding",
+    "definition": "Building reporting and visualization layers that let stakeholders track performance and self-serve insights."
+  },
+  {
+    "category": "Data Analyst",
+    "name": "Data Infrastructure",
+    "definition": "Designing the pipelines, models, and platforms that make data accessible and reliable, including SQL, warehousing, and ETL."
+  }
+]

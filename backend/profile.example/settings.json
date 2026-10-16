@@ -1,0 +1,6 @@
+{
+  "evaluator_rubric_version": "v1",
+  "resume_prompt_version": "v1",
+  "salary_floor": 140000,
+  "locations": ["new york", "nyc", "remote"]
+}

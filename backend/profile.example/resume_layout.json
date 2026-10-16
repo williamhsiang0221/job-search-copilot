@@ -1,0 +1,120 @@
+{
+  "_about": "How the example candidate's resume PDFs are laid out, for the resume parser and the section labels. Slots are listed in print order.",
+  "filename_pattern": "^Jordan Lee Resume (?P<date>\\d{8}) (?P<title>.+) @ (?P<company>.+)\\.pdf$",
+  "filename_example": "Jordan Lee Resume {yyyymmdd} {Title} @ {Company}.pdf",
+  "employers": [
+    {
+      "anchor": "Carewell Health",
+      "roles": [
+        {
+          "slot": "carewell"
+        }
+      ]
+    },
+    {
+      "anchor": "Courtside Analytics",
+      "roles": [
+        {
+          "slot": "courtside"
+        }
+      ]
+    },
+    {
+      "anchor": "Brightpath Mobile",
+      "roles": [
+        {
+          "slot": "bp_pm",
+          "years": "2022 - 2025"
+        },
+        {
+          "slot": "bp_sa",
+          "years": "2021 - 2022"
+        },
+        {
+          "slot": "bp_da",
+          "years": "2019 - 2021"
+        }
+      ]
+    },
+    {
+      "anchor": "Northbeam Digital Agency",
+      "roles": [
+        {
+          "slot": "northbeam"
+        }
+      ]
+    }
+  ],
+  "education": [
+    {
+      "anchor": "LAKESHORE SCHOOL OF BUSINESS",
+      "slot": "lakeshore"
+    },
+    {
+      "anchor": "RIVERTON UNIVERSITY",
+      "slot": "riverton"
+    }
+  ],
+  "slots": [
+    {
+      "slot": "summary",
+      "label": "Summary",
+      "context": "Summary",
+      "experience": false
+    },
+    {
+      "slot": "carewell",
+      "label": "Carewell Health",
+      "context": "Carewell Health — digital primary-care startup (Spring 2026)",
+      "experience": true
+    },
+    {
+      "slot": "courtside",
+      "label": "Courtside Analytics",
+      "context": "Courtside Analytics — sports ticket pricing (Fall 2025)",
+      "experience": true
+    },
+    {
+      "slot": "bp_pm",
+      "label": "Brightpath Mobile",
+      "context": "Brightpath Mobile — consumer fintech app, 3M users (2019–2025)",
+      "experience": true
+    },
+    {
+      "slot": "bp_sa",
+      "label": "Brightpath Mobile",
+      "context": "Brightpath Mobile — consumer fintech app, 3M users (2019–2025)",
+      "experience": true
+    },
+    {
+      "slot": "bp_da",
+      "label": "Brightpath Mobile",
+      "context": "Brightpath Mobile — consumer fintech app, 3M users (2019–2025)",
+      "experience": true
+    },
+    {
+      "slot": "northbeam",
+      "label": "Northbeam Digital",
+      "context": "Northbeam Digital Agency (2018–2019)",
+      "experience": true
+    },
+    {
+      "slot": "lakeshore",
+      "label": "Lakeshore (MBA)",
+      "context": "Education — Lakeshore School of Business (MBA, 2026)",
+      "experience": false
+    },
+    {
+      "slot": "riverton",
+      "label": "Riverton University (BS)",
+      "context": "Education — Riverton University (BS Economics, 2018)",
+      "experience": false
+    },
+    {
+      "slot": "additional",
+      "label": "Additional",
+      "context": "Additional",
+      "experience": false
+    }
+  ]
+}

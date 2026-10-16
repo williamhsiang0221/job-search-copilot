@@ -1,0 +1,21 @@
+fastapi
+uvicorn[standard]
+
+# Gmail — the set from Google's Python quickstart:
+# https://developers.google.com/workspace/gmail/api/quickstart/python
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+
+# Job descriptions
+sqlalchemy
+beautifulsoup4
+lxml
+requests
+anthropic
+pypdf
+python-multipart
+
+# Tests
+pytest
+httpx

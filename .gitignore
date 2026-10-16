@@ -1,0 +1,39 @@
+# Credentials. These live in ~/.config/job-board/ by default and should never be
+# in the repo at all — these entries are a second line of defence.
+credentials.json
+token.json
+client_secret*.json
+*.pem
+*.key
+.env
+.env.*
+
+# Personal source material: capability inventory, past evaluations, the raw
+# Notion export, and reflections. Kept local pending a decision — the export
+# carries other people's names in its referral column, and this project is a
+# plausible portfolio artifact. See "Open decisions" in BACKLOG.md.
+docs/
+
+# Stored job descriptions — local data, never committed
+backend/jobs.db
+*.db
+*.db.backup-*
+
+# Real resume PDFs staged for ingest_resume.py — personal documents with
+# contact info, never committed. Drop new ones in here.
+backend/data/resume_pdfs/
+
+# Python
+backend/.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Node
+frontend/node_modules/
+frontend/dist/
+
+.DS_Store
+
+# The public repo built by backend/export_public.py (its own git history)
+public-export/
